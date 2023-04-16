@@ -20,4 +20,4 @@ En el siguiente código puedes ir cambiando la cantidad de clusters como tambié
 
 `model = KMeans(n_clusters = 3,max_iter = 2000)`
 
-La elección del número de iteraciones puede afectar el rendimiento y la calidad del modelo generado por KMeans. En general, si se elige un número bajo de iteraciones, el modelo puede no converger correctamente y los resultados pueden no ser óptimos. Si se elige un número muy alto de iteraciones, el modelo puede tardar más en ajustarse y puede ser propenso al sobreajuste (overfitting).
+La elección del número de iteraciones puede afectar el rendimiento y la calidad del modelo generado por KMeans. En general, si se elige un número bajo de iteraciones, el modelo puede no converger correctamente y los resultados pueden no ser óptimos. Si se elige un número muy alto de iteraciones, el modelo puede tardar más en ajustarse y puede ser propenso al sobreajuste (overfitting). 
